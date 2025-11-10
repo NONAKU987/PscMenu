@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PscMenu</string>
+    <string name="หน้าหลัก" />
+    <string name="สินค้า">สินค้า</string>
+    <string name="ลงประกา">ลงประกาศ</string>
+    <string name="แจ้งเตือน">แจ้งเตือน</string>
+    <string name="ฉัน">ฉัน</string>
+</resources>
