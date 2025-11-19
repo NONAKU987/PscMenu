@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mainDrawerLayout" type="id" />
+    <item name="maintoolbar" type="id" />
+    <item name="mainNavigationView" type="id" />
+    <item name="maineBottomNavigationView" type="id" />
+</resources>

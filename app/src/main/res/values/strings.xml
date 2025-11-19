@@ -5,4 +5,7 @@
     <string name="ลงประกา">ลงประกาศ</string>
     <string name="แจ้งเตือน">แจ้งเตือน</string>
     <string name="ฉัน">ฉัน</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ลงประกาศ">ลงประกาศ</string>
 </resources>

@@ -3,15 +3,15 @@
     <item
         android:id="@+id/homeFragment"
         android:icon="@drawable/ic_home"
-        android:title="@string/หน้าหลัก"/>
+        android:title="หน้าหบลัก"/>
     <item
         android:id="@+id/productFragment"
         android:icon="@drawable/ic_product"
         android:title="@string/สินค้า"/>
     <item
-        android:id="@+id/addproductFragment"
+        android:id="@+id/addProductFragment"
         android:icon="@drawable/ic_add"
-        android:title="@string/ลงประกา"/>
+        android:title="@string/ลงประกาศ"/>
     <item
         android:id="@+id/notificationFragment"
         android:icon="@drawable/ic_notification"
